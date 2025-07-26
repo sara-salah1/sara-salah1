@@ -43,6 +43,8 @@
 
 ---
 
+
+
 ### 📌 Highlighted Projects
 -  **ADVIX - CFO Assistant**: LLM-powered assistant for financial queries using RAG + LangChain + Gemini.
 -  **Harmful Prompt Detection**: Evaluated LLMs (Gemini, Groq, HF models) using real-world toxic prompt datasets.
@@ -50,6 +52,7 @@
 -  **Mortgage ML System**: Flask app with classification/regression for mortgage risk analysis.
 
 ---
+
 ### 📫 Contact Me:
 
 <p align="center">
@@ -58,4 +61,3 @@
 </p>
 
 ---
-
