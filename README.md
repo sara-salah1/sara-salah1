@@ -17,7 +17,6 @@
 ---
 
 ### 💻 Tech Stack:
-#### 🧠 AI & ML:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" title="Python"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" title="TensorFlow"/>
@@ -26,40 +25,22 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="HuggingFace Transformers"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" title="Kaggle"/>
-</p>
-
-#### 🧠 LLMs & RAG:
-- OpenAI (GPT-4, GPT-4o, GPT-3.5)
-- Claude (Anthropic)
-- Gemini (Google)
-- LangChain, Groq, Prompt Engineering, RAG systems
-
-#### 🌐 Backend & APIs:
-<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="40" title="FastAPI"/>
   <img src="https://www.vectorlogo.zone/logos/flaskio/flaskio-icon.svg" width="40" title="Flask"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" title="Django"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" title="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-</p>
-
-#### 🖥️ Programming Languages:
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-</p>
-
-#### ☁️ Cloud & Tools:
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" title="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" title="Azure"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 </p>
+
 
 ---
 
@@ -93,5 +74,3 @@
 ### ☕ Let’s Connect!
 I'm always open to collaborations in AI, LLMs, and applied machine learning.  
 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sara-salah-0208071b2/) or via email at **sarasalah0084@gmail.com**.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRlYmQyMDRiMTgyMzZjZDEyY2M2ODc4ODAzZTIzMTgyNjg1NTNmNCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
