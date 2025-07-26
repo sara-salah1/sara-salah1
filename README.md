@@ -34,15 +34,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 </p>
+---
+<div align="center" >
+<a  href="https://github.com/sara-salah1">
 
+<img src="https://raw.githubusercontent.com/sara-salah1/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/sara-salah1/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/sara-salah1/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/sara-salah1/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
 
 ---
-### 📊 GitHub Stats:
+### 🔥 GitHub Streak
 
-### 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sara-salah1&theme=radical&no-frame=true&column=6&rank=-C)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sara-salah1&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
