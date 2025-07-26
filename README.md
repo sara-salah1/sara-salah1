@@ -39,10 +39,9 @@
 ---
 ### 📊 GitHub Stats:
 
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasalah&show_icons=true&theme=radical&count_private=true)
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sara-salah1&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-salah1&layout=compact&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-salah1&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
