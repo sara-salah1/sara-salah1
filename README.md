@@ -1,4 +1,5 @@
 # Hi there, I'm Sara Salah 👋
+![Totals Hits](https://komarev.com/ghpvc/?username=sara-salah1&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ### 👩‍💻 About Me:
 - 🧠 AI Engineer with deep experience in NLP, Computer Vision, and Machine Learning.
