@@ -4,7 +4,8 @@
 <a href="mailto:sarasalah0084@gmail.com"><img align="center" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*FZ5pQe2i1kR9JLpP7kszXQ.png" alt="AI Engineer Banner" width="100%" />
+
 
 ### 👩‍💻 About Me:
 - 🧠 AI Engineer with deep experience in NLP, Computer Vision, and Machine Learning.
@@ -43,10 +44,13 @@
 
 
 ---
-
 ### 📊 GitHub Stats:
+
 ![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasalah&show_icons=true&theme=radical&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasalah&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarasalah&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -57,20 +61,12 @@
 - 🔹 **Mortgage ML System**: Flask app with classification/regression for mortgage risk analysis.
 
 ---
+### 📫 Contact Me:
 
-### 📝 Publications
-- 📄 *Flood Rapid Mapping with Optical Data Using Segmentation Techniques*
-- 📄 *Graduation Project: SAR Data Preprocessing and Land Use Classification*
-
----
-
-### 🧠 Fun Facts
-- I love experimenting with LLMs and building practical AI systems.
-- I’m obsessed with prompt tuning and improving model outputs.
-- I enjoy learning and teaching — and making AI more explainable!
+<p align="center">
+  <a href="mailto:sarasalah0084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sara-salah-0208071b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/sarasalah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
-
-### ☕ Let’s Connect!
-I'm always open to collaborations in AI, LLMs, and applied machine learning.  
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sara-salah-0208071b2/) or via email at **sarasalah0084@gmail.com**.
