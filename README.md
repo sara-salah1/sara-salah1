@@ -10,16 +10,6 @@
 
 ---
 
----
-### 📫 Contact Me:
-
-<p align="center">
-  <a href="mailto:sarasalah0084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sara-salah-0208071b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-</p>
-
----
-
 ### 💻 Tech Stack:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" title="Python"/>
@@ -51,7 +41,8 @@
 
 ![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasalah&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasalah&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-salah1&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-salah1&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -62,4 +53,13 @@
 - 🔹 **Flood Mapping with Optical Data**: Semantic segmentation of remote sensing images to detect flooding.
 - 🔹 **Mortgage ML System**: Flask app with classification/regression for mortgage risk analysis.
 
+---
+### 📫 Contact Me:
+
+<p align="center">
+  <a href="mailto:sarasalah0084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sara-salah-0208071b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+</p>
+
+---
 
