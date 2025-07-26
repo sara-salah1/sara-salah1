@@ -59,6 +59,4 @@
 
 ### ☕ Let’s Connect!
 I'm always excited to collaborate on AI, ML, or NLP projects.  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sara-salah-mohamed) or via email at **sara.salah.eng@gmail.com**.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRlYmQyMDRiMTgyMzZjZDEyY2M2ODc4ODAzZTIzMTgyNjg1NTNmNCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+Feel free to reach out on [LinkedIn]([https://www.linkedin.com/in/sara-salah-mohamed](https://www.linkedin.com/in/sara-salah-0208071b2/)) or via email at **sarasalah0084@gmail.com**.
