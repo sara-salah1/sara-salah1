@@ -39,9 +39,9 @@
 ---
 ### 📊 GitHub Stats:
 
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sara-salah1&show_icons=true&theme=radical&count_private=true)
+### 🏆 GitHub Trophy
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-salah1&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=sara-salah1&theme=radical&no-frame=true&column=6&rank=-C)
 
 
 ---
